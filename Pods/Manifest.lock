@@ -1,0 +1,16 @@
+PODS:
+  - XMBaseLogin (0.1.0)
+
+DEPENDENCIES:
+  - XMBaseLogin (from `Lib/XMBaseLogin`)
+
+EXTERNAL SOURCES:
+  XMBaseLogin:
+    :path: Lib/XMBaseLogin
+
+SPEC CHECKSUMS:
+  XMBaseLogin: d48aca4f65672ef2741b64a010bb3d016b7d5002
+
+PODFILE CHECKSUM: 696414c3e1dde3a54acb46507f579eb4701460a4
+
+COCOAPODS: 1.9.0

@@ -1,0 +1,6 @@
+framework module Pods_XMComponetApp {
+  umbrella header "Pods-XMComponetApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

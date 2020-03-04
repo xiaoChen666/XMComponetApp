@@ -1,0 +1,6 @@
+framework module XMBaseLogin {
+  umbrella header "XMBaseLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

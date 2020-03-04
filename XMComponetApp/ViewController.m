@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import <XMBaseLogin/XMLoginBaseClass.h>
 @interface ViewController ()
 
 @end
@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    XMLoginBaseClass *test = [[XMLoginBaseClass alloc] init];
+    
     // Do any additional setup after loading the view.
 }
 
